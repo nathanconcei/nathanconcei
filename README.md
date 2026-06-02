@@ -1,6 +1,8 @@
 <div align="center">
-
-![The Flash](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%">
+</p>
 
 # Olá! Meu nome é Nathan Conceição
 
