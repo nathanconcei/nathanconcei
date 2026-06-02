@@ -1,8 +1,8 @@
 <div align="center">
-  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%">
-</p>
+
+<img src="https://media.giphy.com/media/QssMCEYgKvpnW/giphy.gif" width="400px" alt="Flash DC" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # Olá! Meu nome é Nathan Conceição
 
